@@ -1,0 +1,5 @@
+The MovieTicketReservation.zip file in contains Java Src code and is also contains the test.db and Jar files required to run the code.
+the File name got wrong due to cinfusion between what code/ program is supposed to perform.
+the IDE was Eclipse 2019-09
+Java JDK 13
+Database Used was SQLite
